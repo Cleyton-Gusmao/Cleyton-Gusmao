@@ -2,6 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Cleyton Gusmão - Portfólio</title>
   <style>
     body {
@@ -11,51 +12,108 @@
       line-height: 1.6;
       color: #222;
       background: #f9f9f9;
-      padding: 20px;
+      padding: 20px 30px;
       border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
     }
-    h1, h2 {
+    header {
+      border-bottom: 2px solid #2980b9;
+      margin-bottom: 30px;
+      padding-bottom: 10px;
+    }
+    header h1 {
+      font-size: 2.8em;
       color: #2c3e50;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #555;
+      margin-top: 8px;
+    }
+    h2 {
+      color: #2c3e50;
+      margin-bottom: 0.3em;
     }
     a {
       color: #2980b9;
       text-decoration: none;
+      transition: color 0.3s ease;
     }
     a:hover {
       text-decoration: underline;
+      color: #1c5980;
     }
     .contact a {
       margin-right: 15px;
+      font-weight: 600;
+    }
+    ul {
+      padding-left: 1.2em;
+      margin-bottom: 2em;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #888;
+      font-size: 0.9em;
+    }
+
+    /* Responsividade */
+    @media (max-width: 480px) {
+      body {
+        margin: 20px 15px;
+        padding: 15px 20px;
+      }
+      header h1 {
+        font-size: 2em;
+      }
+      header p {
+        font-size: 1em;
+      }
+      .contact a {
+        display: inline-block;
+        margin-bottom: 10px;
+      }
     }
   </style>
 </head>
 <body>
-  <h1>Cleyton Gusmão</h1>
-  <p>Olá! Me chamo Cleyton Gusmão, sou formado em Análise e Desenvolvimento de Sistemas, tenho 25 anos e sou de Maceió-AL.</p>
-  
- <h2>Sobre Mim</h2>
-  <p>Depois de anos atuando com suporte e atendimento ao cliente, onde aprendi a escutar, resolver problemas e lidar com pressão, encontrei na área de qualidade de software a chance de aplicar tudo isso, garantindo que os produtos cheguem ao usuário final com mais estabilidade, clareza e confiança.</p>
 
-  <p>Hoje atuo como QA Engineer e venho me aprofundando em testes manuais e automatizados com Cypress, Postman e Swagger, utilizando também ferramentas como Qase, JIRA, GitHub Actions, e aplicando práticas ágeis como Scrum e Kanban. Gosto de pensar que meu trabalho não é só testar, mas antecipar falhas, melhorar processos e colaborar com o time para entregar o melhor possível.</p>
+  <header>
+    <h1>Cleyton Gusmão</h1>
+    <p>Formado em Análise e Desenvolvimento de Sistemas, 25 anos, Maceió-AL.</p>
+  </header>
 
-  <p>Aqui no site, compartilho um pouco da minha trajetória, projetos que desenvolvi e estou desenvolvendo. Fica à vontade para explorar e, se quiser trocar uma ideia, é só chamar!</p>
+  <section id="sobre-mim">
+    <h2>Sobre Mim</h2>
+    <p>Depois de anos atuando com suporte e atendimento ao cliente, onde aprendi a escutar, resolver problemas e lidar com pressão, encontrei na área de qualidade de software a chance de aplicar tudo isso, garantindo que os produtos cheguem ao usuário final com mais estabilidade, clareza e confiança.</p>
 
-  <h2>Projetos</h2>
-  <ul>
-    <li><a href="https://github.com/Cleyton-Gusmao/RWA-Testes" target="_blank" rel="noopener">Automação de testes no Real World App (Cypress)</a> — Exercícios e aprendizado do curso Guardião da Qualidade.</li>
-   <li><a href="https://github.com/Cleyton-Gusmao/primeiros-passos-cypress" target="_blank" rel="noopener">Primeiros passos com Cypress</a> - Primeira vez utilizando Cypress</li>
+    <p>Hoje atuo como QA Engineer e venho me aprofundando em testes manuais e automatizados com Cypress, Postman e Swagger, utilizando também ferramentas como Qase, JIRA, GitHub Actions, e aplicando práticas ágeis como Scrum e Kanban. Gosto de pensar que meu trabalho não é só testar, mas antecipar falhas, melhorar processos e colaborar com o time para entregar o melhor possível.</p>
 
-  </ul>
+    <p>Aqui no site, compartilho um pouco da minha trajetória, projetos que desenvolvi e estou desenvolvendo. Fica à vontade para explorar e, se quiser trocar uma ideia, é só chamar!</p>
+  </section>
 
-  <h2>Contato</h2>
-  <p class="contact">
-    <a href="cleytongusmao18@gmail.com">Email</a> |
-    <a href="https://www.linkedin.com/in/cleytongusmao/" target="_blank" rel="noopener">LinkedIn</a> |
-    <a href="https://github.com/Cleyton-Gusmao" target="_blank" rel="noopener">GitHub</a>
-  </p>
+  <section id="projetos">
+    <h2>Projetos</h2>
+    <ul>
+      <li><a href="https://github.com/Cleyton-Gusmao/RWA-Testes" target="_blank" rel="noopener noreferrer">Automação de testes no Real World App (Cypress)</a> — Exercícios e aprendizado do curso Guardião da Qualidade.</li>
+      <li><a href="https://github.com/Cleyton-Gusmao/primeiros-passos-cypress" target="_blank" rel="noopener noreferrer">Primeiros passos com Cypress</a> — Primeira vez utilizando Cypress.</li>
+    </ul>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p class="contact">
+      <a href="mailto:cleytongusmao18@gmail.com">Email</a> |
+      <a href="https://www.linkedin.com/in/cleytongusmao/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+      <a href="https://github.com/Cleyton-Gusmao" target="_blank" rel="noopener noreferrer">GitHub</a>
+    </p>
+  </section>
 
   <footer>
     <p>© 2025 Cleyton Gusmão</p>
   </footer>
+
 </body>
 </html>

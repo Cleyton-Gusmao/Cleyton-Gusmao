@@ -9,10 +9,10 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Automação:** Cypress
-- **Back-End Automação:** Testes de API com Postman e Swagger
+- **Testes de API:** Postman e Swagger
 - **Banco de Dados:** PostgreSQL
 - **Versionamento & CI/CD:** GitHub e Git
-- **Planejamento de Testes:** JIRA, Trello, Google Sheets, BDD (Gherkin, Cucumber), Qase, Confluence 
+- **Planejamento e Gestão de Testes:** JIRA, Trello, Google Sheets, BDD (Gherkin, Cucumber), Qase, Confluence 
 - **Linguagens:** JavaScript
 - **Metodologias Ágeis:** Scrum e Kanban  
 

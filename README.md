@@ -1,20 +1,41 @@
-# 👋 Olá, eu sou Cleyton Gusmão! 
+# 👋 Olá, eu sou Cleyton Gusmão!
 
-- **QA Engineer** | 1 ano de experiência em testes manuais e 5 meses com automação de testes  
-- Formado em **Análise e Desenvolvimento de Sistemas** 
-- Testes de API, automação web, integração CI/CD  
-- JavaScript, SQL, metodologias ágeis  
-- Em busca de oportunidades como QA Engineer  
+Minha missão é garantir que o produto funcione como deveria, e melhor ainda, antecipar problemas antes que eles cheguem ao usuário.
 
-## 🛠️ Tecnologias & Ferramentas
+**Como eu atuo na prática:**
+- Enfrento bugs e inconsistências com pensamento crítico e foco em resolução.
+- Automatizo testes com Cypress para acelerar entregas sem abrir mão da qualidade.
+- Valido APIs com Postman e Swagger, sempre pensando na experiência real do usuário.
+- Crio testes claros, bem escritos, e com contexto para facilitar o trabalho dos devs.
+- Colaboro com POs e devs para manter o time alinhado e produtivo.
 
-- **Automação:** Cypress
-- **Testes de API:** Postman e Swagger
-- **Banco de Dados:** PostgreSQL
-- **Versionamento & CI/CD:** GitHub e Git
-- **Planejamento e Gestão de Testes:** JIRA, Trello, Google Sheets, BDD (Gherkin, Cucumber), Qase, Confluence 
-- **Linguagens:** JavaScript
-- **Metodologias Ágeis:** Scrum e Kanban  
+ Já ajudei equipes a:
+- Reduzir bugs em produção.
+- Aumentar a cobertura de testes.
+- Entregar mais rápido, com mais segurança.
+
+---
+
+## Tecnologias & Ferramentas que uso para entregar resultado
+
+- **Automação:** Cypress  
+- **Testes de API:** Postman | Swagger  
+- **Banco de Dados:** PostgreSQL  
+- **Versionamento e CI/CD:** Git | GitHub  
+- **Planejamento e Gestão de Testes:** Qase | JIRA | Trello | Google Sheets | Confluence  
+- **BDD:** Gherkin | Cucumber  
+- **Linguagens:** JavaScript | SQL  
+- **Metodologias Ágeis:** Scrum | Kanban  
+
+---
+
+## Sobre mim
+ Formado em Análise e Desenvolvimento de Sistemas  
+ 1 ano de experiência com testes manuais e 5 meses com automação de testes  
+ Buscando sempre aprender, colaborar com o time e entregar valor real ao produto
+
+---
+
 
 ### 🌐 Social
 

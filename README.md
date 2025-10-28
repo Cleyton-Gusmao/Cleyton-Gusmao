@@ -44,4 +44,4 @@ Minha missão é garantir que o produto funcione como deveria e antecipar proble
 
 ### ✨ Linguagens Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Gusmao&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCGusmao&layout=compact&theme=dracula)

@@ -1,38 +1,11 @@
-# 👋 Olá, eu sou Cleyton Gusmão!
+### 👋 Olá, eu sou Cleyton Gusmão
 
-Minha missão é garantir que o produto funcione como deveria e antecipar problemas antes que cheguem ao usuário.
+QA focado em garantir a qualidade do produto ponta a ponta, antecipando falhas antes que cheguem ao usuário.
 
-**Como atuo na prática:**  
-- Enfrento bugs e inconsistências com pensamento crítico e foco em resolução  
-- Automatizo testes com **Cypress** para acelerar entregas sem abrir mão da qualidade  
-- Valido **APIs** com Postman e Swagger, sempre pensando na experiência do usuário  
-- Crio testes claros, bem escritos e com contexto para facilitar o trabalho dos devs  
-- Colaboro com POs e devs para manter o time alinhado e produtivo  
+Atuo com testes manuais e automação E2E (Cypress), validação de APIs (Postman/Swagger) e colaboração próxima com devs e POs, sempre com foco em qualidade, clareza e entregas seguras.
 
-**Já ajudei equipes a:**  
-- Reduzir bugs em produção  
-- Aumentar a cobertura de testes  
-- Entregar mais rápido, com mais segurança  
-
----
-
-## 🛠 Tecnologias & Ferramentas que uso para entregar resultado
-
-- **Automação:** Cypress  
-- **Testes de API:** Postman | Swagger  
-- **Banco de Dados:** PostgreSQL  
-- **Versionamento e CI/CD:** Git | GitHub  
-- **Planejamento e Gestão de Testes:** Qase | Jira | Trello | Google Sheets | Confluence  
-- **BDD:** Gherkin | Cucumber  
-- **Linguagens:** JavaScript | SQL  
-- **Metodologias Ágeis:** Scrum | Kanban  
-
----
-
-## 🎓 Sobre mim
-- Formado em **Análise e Desenvolvimento de Sistemas**  
-- 1 ano de experiência com testes manuais e 5 meses com automação de testes  
-- Buscando sempre aprender, colaborar com o time e entregar valor real ao produto  
+**Stack:** Cypress · Postman · Swagger · Git/GitHub · PostgreSQL · Qase · Jira · Gherkin  
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 ---
 

@@ -12,9 +12,3 @@ Atuo com testes manuais e automação E2E (Cypress), validação de APIs (Postma
 ### 🌐 Social
 
 [<img align="center" alt="Linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/cleytong/) &nbsp;&nbsp;&nbsp;&nbsp;  [<img align="center" alt="Gmail" width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/>](mailto:cleytongusmao18@gmail.com)  
-
----
-
-### ✨ Linguagens Utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCGusmao&layout=compact&theme=dracula)
